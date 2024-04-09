@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 528ef3e00fe29284f88a9becff402664
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168416
+  packageName: Stylized General Modular Mini Golf Asset Package
+  packageVersion: 1.0
+  assetPath: Assets/Aligned Games/Stylized General Modular Mini Golf Asset Package/Scripts/LevelManager.cs
+  uploadId: 373304

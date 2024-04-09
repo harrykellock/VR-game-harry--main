@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 505c37afa3e3d07449253bea5862eac3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168416
+  packageName: Stylized General Modular Mini Golf Asset Package
+  packageVersion: 1.0
+  assetPath: Assets/Aligned Games/Stylized General Modular Mini Golf Asset Package/Scripts/FlyCameraManager.cs
+  uploadId: 373304
