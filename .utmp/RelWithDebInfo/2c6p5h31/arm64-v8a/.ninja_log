@@ -1,11 +1,11 @@
 # ninja log v5
-427	766	7343583628752604	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bcf3501682aa1cde
-100	1174	7343583632729482	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	db8d8f25dd9b5195
-768	1242	7343583632054878	C:/temp/VR-game-harry--main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2c6p5h31/obj/arm64-v8a/libswappywrapper.so	b8f7ebb783f4002f
-217	1257	7343583633621160	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4f8ec6e70f110018
-1	1359	7343583634631796	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	580bc46f57056847
-342	1391	7343583634961035	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	601559096289c2d0
-268	1396	7343583635016221	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	45e027886da33f44
-155	1546	7343583636366192	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7beb37f73ca173f1
-49	1576	7343583636852596	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fa65d02acee33960
-1577	1884	7343583639130679	C:/temp/VR-game-harry--main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2c6p5h31/obj/arm64-v8a/libgame.so	6b0aa96c7ad61835
+484	918	7349827581398988	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bcf3501682aa1cde
+159	1197	7349827584077018	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	db8d8f25dd9b5195
+102	1287	7349827585027356	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4f8ec6e70f110018
+920	1320	7349827584612892	C:/temp/VR-game-harry--main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2c6p5h31/obj/arm64-v8a/libswappywrapper.so	b8f7ebb783f4002f
+301	1351	7349827585646026	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	45e027886da33f44
+394	1352	7349827585703522	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	601559096289c2d0
+51	1373	7349827585948277	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	580bc46f57056847
+218	1548	7349827587689302	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7beb37f73ca173f1
+1	1627	7349827588481121	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fa65d02acee33960
+1628	1951	7349827591005004	C:/temp/VR-game-harry--main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2c6p5h31/obj/arm64-v8a/libgame.so	6b0aa96c7ad61835
